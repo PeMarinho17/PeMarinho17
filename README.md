@@ -1,16 +1,20 @@
-## Hi there 👋
+# Pedro Marinho
 
-<!--
-**PeMarinho17/PeMarinho17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering and Artificial Intelligence student focused on Python and problem-solving.
 
-Here are some ideas to get you started:
+Currently developing practical projects to improve skills in automation, data analysis, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Software Engineering & AI student  
+- Learning Python  
+- Experience with data organization and analysis  
+- Director of Events at ACOMP (UFMS)  
+- Advanced English  
+
+## Goals
+- Build real-world projects  
+- Improve programming skills  
+- Gain professional experience through internships  
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/pedro-marinho-6526b527b/
